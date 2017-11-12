@@ -129,6 +129,10 @@ PRODUCT_PACKAGES += \
     #Updater
     #WeatherProvider
 
+# Android System Webview
+PRODUCT_PACKAGES += \
+AndroidSystemWebview
+
 # Exchange support
 PRODUCT_PACKAGES += \
     Exchange2
